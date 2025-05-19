@@ -1,0 +1,5 @@
+{
+    "port": 8001,
+    "device": "cuda:0",
+    "model_name": "llama_13b"
+}

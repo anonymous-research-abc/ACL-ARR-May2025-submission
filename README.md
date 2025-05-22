@@ -1,5 +1,14 @@
+# Anonymous Submission for ACL ARR (May 2025 Cycle)
 
-Requirements
+This repository contains the code and data accompanying our anonymous submission to the ACL Rolling Review (ARR), May 2025 cycle.
+
+Please contact us via OpenReview if you have any questions during the review process.
+
+
+
+## Environment Setup
+
+Below is the environment setup used for the experiments:
 
 # Core Python 
 python==3.11.8
